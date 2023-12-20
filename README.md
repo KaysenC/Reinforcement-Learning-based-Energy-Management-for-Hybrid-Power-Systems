@@ -6,4 +6,7 @@ The new energy vehicle plays a crucial role in green transportation, and the ene
 `Figure. The main framework of the review.`
 
 We would be very grateful to all the scholars who have improved and corrected all the above contents. If you have any questions, please contact 20220701066@stu.cqu.edu.cn and we will respond in time.
+
 If you need to use related content, please cite _Reinforcement Learning-based Energy Management for Hybrid Power Systems: State-of-the-Art Survey, Review, and Perspectives_
+
+Authors: Xiaolin Tang, Jiaxin Chen, Yechen Qin, Teng Liu, Kai Yang, Amir Khajepour, and Shen Li.
